@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module external.linked.project.id=":Topics-Comments-Unused_comments" external.linked.project.path="$MODULE_DIR$/../../../../../Topics/Comments/Unused comments" external.root.project.path="$MODULE_DIR$/../../../../.." external.system.id="GRADLE" external.system.module.group="Connect Four" external.system.module.version="unspecified" type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/../../../../../Topics/Comments/Unused comments">
+      <excludeFolder url="file://$MODULE_DIR$/../../../../../Topics/Comments/Unused comments/.gradle" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../../../Topics/Comments/Unused comments/build" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../../../Topics/Comments/Unused comments/out" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
